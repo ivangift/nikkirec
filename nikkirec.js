@@ -7,6 +7,7 @@ function init() {
   $("#rec1").append("<div style='color:red'>觉得亚洲服务器还是慢的请去<a href='http://www.cloudping.info/'>www.cloudping.info</a>点一下'HTTP Ping'那个按钮，把结果回报到主贴</div>");
   $("#rec1").append("<div style='color:red'>实测识别结果准确率很高，如果发现你的截图在无遮挡的情况下识别率低于80%，"
   	+ "请将原图贴到<a href='http://tieba.baidu.com/p/4246163563'>主贴</a>让我检查一下。</div>");
+  $("#recnote").html("<ul><li>二选一又开始了，今天我和玉人预计都会很忙，大家先凭感觉猜一下关卡，等我们空下来了研究一下关卡对应关系。</li></ul>");
 }
 // randomly change sth
 
